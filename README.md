@@ -1,4 +1,4 @@
-# GameValueChanger
+# Information!
 If you want to have a broad understanding, open the README file. Technically, this is indeed a README file.
 
 ============================================================================================

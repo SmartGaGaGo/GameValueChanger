@@ -14,3 +14,7 @@ A2: The script is given some info. So, there are 2 textboxes that you need to fi
 Q3: What year did this script exist?
 
 A3: Two thousand twenty four (2024).
+
+Q4: Does this script need to pay for it?
+
+A4: Yes.

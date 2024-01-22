@@ -1,7 +1,7 @@
 # GameValueChanger
 If you want to have a broad understanding, open the README file.
 
-===============================================================================================
+============================================================================================
 
 Q1: What is the purpose of this script?
 
